@@ -1,0 +1,3 @@
+#bash script that creates a template project folder structure
+
+mkdir -p projects/bioinf_project/{dataset,general_scripts,bin}
