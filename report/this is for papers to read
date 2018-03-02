@@ -1,1 +1,50 @@
 
+
+Anfinsen, C.B. (1972). The formation and stabilization of protein structure. 
+Biochemical Journal
+
+Chou, P. Y. & Fasman, G. D. (1974). Conformational parameters for amino acids in helical,sheet, 
+and random coil regions calculated from proteins. 
+
+
+Garnier, J., Osguthorpe, D. J. & Robson, B. (1978). Analysis and implications of simple methods for 
+predicting the secondary structure of globular proteins. 
+Journal of Molecular Biology
+
+Kabsch,  W.  &  Sander,  C.  (1983).  A  dictionary  of  protein  secondary  structure. Biopolymers
+
+Rost,  B.  &  Sander,  C.  (1993).  Prediction  of  protein  secondary  structure at  better  than  70  % 
+accuracy. Journal of Molecular Biology
+
+Jones  D.  T  (1999).Protein  secondary  structure  prediction  based  on  positionspecific  scoring matrices
+Journal of Molecular Biology
+
+Wang,  S.,  Peng,  J.,  Ma,  J.,  &  Xu,  J.  (2016).  Protein  Secondary  Structure  Prediction  Using  Deep 
+Convolutional Neural Fields.
+Scientific Reports
+
+Altschul, S. F. et al. (1997). Gapped BLAST and PSI BLAST: a new  generation of protein database search programs.
+Nucleic Acids Research
+
+Kohavi, R. (1995). A study of cross-validation and bootstrap for accuracy estimation and model selection.
+Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence
+
+Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python. 
+
+Cortes, C., Vapnik, V. (1995). Support-vector Networks. 
+
+Quinlan, J.R. (1986). Induction of Decision Trees. 
+
+Ho,  T.K.  (1995).  Random  Decision  Forests.  Proceedings  of  the  3rd International  Conference  on Document Analysis...
+and Recognition
+
+Kleinberg,   E.   (1996).  An   Overtraining Resistant   Stochastic   Modeling   Method   for   Pattern 
+Recognition. 
+
+Costantini,  S.,  Colonna,  G.,  Facchiano,  A.M.  (2006).  Amino  Acid  Propensities  for  Secondary Structures are  Influenced by the Protein Structural Class. 
+Biochemical and Biophysical Research 
+
+Faraggi, E., Zhang, T., 
+Yang, Y., Kurgan, L., & Zhou, Y. (2012). SPINE X: Improving protein secondary structure prediction by multi-
+step learning coupled with prediction of solvent accessible surface 
+area and backbone torsion angles.
