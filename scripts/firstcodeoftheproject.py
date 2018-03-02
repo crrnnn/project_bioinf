@@ -1,10 +1,16 @@
 import numpy as np
 from sklearn import svm
-# Function that takes a sequence as an input and creates an input vector to sklearn
-#1st parser to read the input file and slip it it into 3 lists of ids, sequences, and states
+##
+## other things to be imported?##3
+
+
+# Function that takes a sequence as an input and creates an input vector to sklearn ##
+
+#1st parser to read the input file and split it into 3 lists of ids, sequences, and states and put everyhting in a dictionary###
+##keys = ids, values = sequence and sturctures ##3
 
 def parser(filename):
-    #mydict={]    
+    #mydict={}    
     mydict1={}
     mydict2={}
     fulldict={}
@@ -42,7 +48,7 @@ hwinsize= float(winsize/2)
 
 windlist= []
 
-
+##does it work like that?
 #for i in seq:
     #i = ((hwinsize)*'0')+i+((hwinsize)*'0')
     #for j in range(0, len(i)):
@@ -54,7 +60,7 @@ windlist= []
 #https://stackoverflow.com/questions/8269916/what-is-sliding-window-algorithm-examples
 
 
-#mapping
+#mapping #aminoacid dict #structure dict
 
 prot = list('ACDEFGHIKLMNPQRSTVWY') 
 states_dict = {1:'H', 2:'S', 3:'C'}
